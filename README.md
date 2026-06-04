@@ -7,11 +7,9 @@ Currently, I am seeking opportunities as a SAP ABAP Developer, SAP Technical Con
 **Technical Skills**
 
 SAP ABAP:
-Reports, Internal Tables, Data Dictionary, ALV Reports,
-Module Pool Programming, Smart Forms, OData Services
+Reports, Internal Tables, Data Dictionary, ALV Reports, Module Pool Programming, Smart Forms, OData Services
 SAP Tools:
-SAP GUI, ABAP Development Tools (ADT),
-SAP Fiori, SAP S/4HANA Basics
+SAP GUI, ABAP Development Tools (ADT), SAP Fiori, SAP S/4HANA Basics
 Programming:
 Java, Python, SQL
 Database:
