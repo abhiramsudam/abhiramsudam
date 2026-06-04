@@ -1,12 +1,39 @@
-About Me:
-I am a final-year B.Tech student in Computer Science Engineering with a strong interest in SAP ABAP development and enterprise applications. I have practical experience working on custom ABAP reports, internal tables, ALV reports, and module pool programs, along with basic OData integration for SAP Fiori applications.<br>Through academic and self-driven projects, I have gained hands-on exposure to backend development, database handling, debugging, and performance optimisation in SAP systems. I enjoy understanding business logic and translating it into clean, efficient technical solutions.<br>Alongside SAP ABAP, I use Java and SQL fundamentals for logic building and data processing, which has helped me strengthen my overall backend development skills.<br>I am currently focused on improving my technical knowledge and communication skills as I prepare for an entry-level role in the SAP technical domain.<br><br>Technical Skills<br><br>SAP ABAP: Reports, Internal Tables, Data Dictionary Objects, ALV Reports, Module Pool Programming<br>SAP Tools: SAP GUI, ABAP in Eclipse (ADT), OData Services, Basic SAP Fiori Integration<br>Programming Languages: Core Java<br>Databases: MySQL<br><br>Education<br><br>Bachelor of Technology (B.Tech) – Computer Science Engineering<br>Sree Dattha Institute of Engineering and Science, Hyderabad<br>Expected Graduation: August 2026 | CGPA: 7
+**About Me:**
+I am a B.Tech Graduate in Computer Science and Engineering with a strong interest in SAP ABAP, SAP Fiori, and enterprise application development.
+I have hands-on experience developing SAP ABAP applications, including Reports, Data Dictionary Objects, Internal Tables, Module Pool Programming, Smart Forms, and OData Services. I have also worked with SAP Fiori integration and modern SAP development concepts.
+Alongside SAP technologies, I possess knowledge of Java, SQL, and software development fundamentals. I enjoy solving business problems through technology and continuously improving my technical and communication skills.
+Currently, I am seeking opportunities as a SAP ABAP Developer, SAP Technical Consultant, or Associate SAP Consultant where I can contribute to enterprise projects and grow within the SAP ecosystem.
 
+**Technical Skills**
+
+SAP ABAP:
+Reports, Internal Tables, Data Dictionary, ALV Reports,
+Module Pool Programming, Smart Forms, OData Services
+
+SAP Tools:
+SAP GUI, ABAP Development Tools (ADT),
+SAP Fiori, SAP S/4HANA Basics
+
+Programming:
+Java, Python, SQL
+
+Database:
+MySQL
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sudam-abhiram-sagar-21a757266) 
+https://www.linkedin.com/in/sudam-abhiram-sagar-21a757266/
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![SAP ABAP](https://img.shields.io/badge/SAP-ABAP-blue?style=for-the-badge)
+![SAP Fiori](https://img.shields.io/badge/SAP-Fiori-blue?style=for-the-badge)
+![OData](https://img.shields.io/badge/OData-Services-blue?style=for-the-badge)
+![SAP S4HANA](https://img.shields.io/badge/SAP-S4HANA-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abhiramsudam&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=abhiramsudam&theme=dark&hide_border=true)<br/>
@@ -14,5 +41,3 @@ I am a final-year B.Tech student in Computer Science Engineering with a strong i
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abhiramsudam&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
